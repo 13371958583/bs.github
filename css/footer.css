@@ -1,0 +1,20 @@
+.footer {
+    width: 100%;
+    height: 400px;
+    background: red;
+    -moz-background-size: 100% 100%;
+    -ms-background-size: 100% 100%;
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+    color: white;
+}
+
+.footer-warp{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-about{
+    width: 200.5px;
+    background: red;
+}
